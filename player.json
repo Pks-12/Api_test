@@ -1,0 +1,1211 @@
+[
+  {
+  "name": "M Starc",
+  "fullName": "Mitchell Starc",
+  "personalInformation": {
+    "bornDate": "January 30 1990",
+    "birthPlace": "Baulkham Hills, Sydney, New South Wales",
+    "height": "1.96 m",
+    "roleType": "Bowler",
+    "battingType": "Left Handed Bat",
+    "bowlingType": "Left-aram fast"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/starc.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-",
+      "odi": "-",
+      "t20": "-"
+    },
+    "bowling": {
+      "test": "11",
+      "odi": "21",
+      "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Delhi Capitals",
+      "Kolkata Knight Riders",
+      "Royal Challengers Bengaluru"
+    ],
+    "bblTeam": [
+      "Sydney Thunder",
+      "Sydney Sixers"
+    ],
+    "nationalTeam": [
+      "Australia"
+    ],
+    "domesticTeam": [
+      "Australia A",
+      "New South Wales",
+      "Yorkshire",
+      "Australians",
+      "Finch XI"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "11",
+      "100": "0",
+      "200": "0",
+      "match": "97",
+      "inning": "141",
+      "runs": "2276",
+      "bestFigure": "3837",
+      "highestScore": "99",
+      "average": "20.5",
+      "strikeRate": "59.32",
+      "nO": "30",
+      "four": "225",
+      "six": "49"
+    },
+    "odi": {
+      "50": "1",
+      "100": "0",
+      "200": "0",
+      "match": "127",
+      "inning": "75",
+      "runs": "577",
+      "bestFigure": "744",
+      "highestScore": "52",
+      "average": "12.02",
+      "strikeRate": "77.56",
+      "nO": "27",
+      "four": "42",
+      "six": "14"
+    },
+    "t20": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "65",
+      "inning": "21",
+      "runs": "98",
+      "bestFigure": "100",
+      "highestScore": "14",
+      "average": "9.8",
+      "strikeRate": "98.00",
+      "nO": "11",
+      "four": "4",
+      "six": "2"
+    },
+    "ipl": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "51",
+      "inning": "23",
+      "runs": "111",
+      "bestFigure": "119",
+      "highestScore": "29",
+      "average": "10.09",
+      "strikeRate": "93.28",
+      "nO": "12",
+      "four": "11",
+      "six": "0"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "97",
+      "inning": "186",
+      "balls": "18701",
+      "runs": "10641",
+      "wicket": "387",
+      "highestScore": "14",
+      "average": "27.5",
+      "Econ": "3.41",
+      "sR": "48.32",
+      "bbI": "6/48",
+      "bbM": "11/94",
+      "5W": "15",
+      "10W": "2"
+    },
+    "odi": {
+      "match": "127",
+      "inning": "127",
+      "balls": "6512",
+      "runs": "5712",
+      "wicket": "244",
+      "average": "23.41",
+      "Econ": "5.26",
+      "sR": "26.69",
+      "bbI": "6/28",
+      "bbM": "6/28",
+      "5W": "09",
+      "10W": "0"
+    },
+    "t20": {
+      "match": "65",
+      "inning": "65",
+      "balls": "1458",
+      "runs": "1881",
+      "wicket": "79",
+      "average": "23.81",
+      "Econ": "7.74",
+      "sR": "18.46",
+      "bbI": "4/20",
+      "bbM": "4/20",
+      "5W": "0",
+      "10W": "0"
+    },
+    "ipl": {
+      "match": "51",
+      "inning": "49",
+      "balls": "1047",
+      "runs": "1503",
+      "wicket": "65",
+      "average": "23.12",
+      "Econ": "8.61",
+      "sR": "16.11",
+      "bbI": "5/35",
+      "bbM": "5/35",
+      "5W": "01",
+      "10W": "0"
+    }
+  }
+},
+
+  {
+  "name": "Bumrah",
+  "fullName": "Jasprit Bumrah",
+  "personalInformation": {
+    "bornDate": "December 06 1993 ",
+    "birthPlace": "Ahmedabad Gujarat India",
+    "height": "-",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-aram fast"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/jB.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-",
+      "odi": "-",
+      "t20": "-"
+    },
+    "bowling": {
+      "test": "1",
+      "odi": "-",
+      "t20": "39"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Mumbai Indians"
+    ],
+    "nationalTeam": [
+      "India"
+    ],
+    "domesticTeam": [
+      "Gujarat",
+      "West Zone",
+      "India A",
+      "India Green"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "45",
+      "inning": "69",
+      "runs": "332",
+      "bestFigure": "741",
+      "highestScore": "34",
+      "average": "7.06",
+      "strikeRate": "44.81",
+      "nO": "22",
+      "four": "35",
+      "six": "11"
+    },
+    "odi": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "89",
+      "inning": "26",
+      "runs": "91",
+      "bestFigure": "159",
+      "highestScore": "16",
+      "average": "7.58",
+      "strikeRate": "57.24",
+      "nO": "14",
+      "four": "10",
+      "six": "1"
+    },
+    "t20": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "70",
+      "inning": "8",
+      "runs": "8",
+      "bestFigure": "14",
+      "highestScore": "7",
+      "average": "2.67",
+      "strikeRate": "57.15",
+      "nO": "5",
+      "four": "1",
+      "six": "0"
+    },
+    "ipl": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "145",
+      "inning": "31",
+      "runs": "68",
+      "bestFigure": "79",
+      "highestScore": "16",
+      "average": "9.71",
+      "strikeRate": "86.08",
+      "nO": "24",
+      "four": "5",
+      "six": "1"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "45",
+      "inning": "86",
+      "balls": "8630",
+      "runs": "3977",
+      "wicket": "205",
+      "average": "19.4",
+      "Econ": "2.77",
+      "sR": "42.1",
+      "bbI": "6/27",
+      "bbM": "09/86",
+      "5W": "13",
+      "10W": "0"
+    },
+    "odi": {
+      "match": "89",
+      "inning": "88",
+      "balls": "4580",
+      "runs": "3509",
+      "wicket": "149",
+      "average": "23.55",
+      "Econ": "4.6",
+      "sR": "30.74",
+      "bbI": "6/19",
+      "bbM": "6/19",
+      "5W": "02",
+      "10W": "0"
+    },
+    "t20": {
+      "match": "70",
+      "inning": "69",
+      "balls": "1509",
+      "runs": "1579",
+      "wicket": "89",
+      "average": "17.74",
+      "Econ": "6.28",
+      "sR": "16.96",
+      "bbI": "3/7",
+      "bbM": "3/7",
+      "5W": "0",
+      "10W": "0"
+    },
+    "ipl": {
+      "match": "145",
+      "inning": "145",
+      "balls": "3337",
+      "runs": "4032",
+      "wicket": "183",
+      "average": "22.03",
+      "Econ": "7.25",
+      "sR": "18.23",
+      "bbI": "5/10",
+      "bbM": "5/10",
+      "5W": "02",
+      "10W": "0"
+    }
+  }
+},
+{
+  "name": "M Shami",
+  "fullName": "Mohammed Shami",
+  "personalInformation": {
+    "bornDate": "September 03 1990 ",
+    "birthPlace": "Amroha Uttar Pradesh India",
+    "height": "-",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-aram fast"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/shami.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-",
+      "odi": "-",
+      "t20": "-"
+    },
+    "bowling": {
+      "test": "-",
+      "odi": "-",
+      "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Kolkata Knight Riders","Sunrisers Hyderabad","Punjab Kings","Gujarat Titans","Delhi Capitals"
+    ],
+    "nationalTeam": [
+      "India"
+    ],
+    "domesticTeam": [
+      "India A", "Bengal", "Rest of India", "Board Presidents XI", "East Zone","Mohun Bagan", "World XI","Asia XI"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "2",
+      "100": "0",
+      "200": "0",
+      "match": "64",
+      "inning": "89",
+      "runs": "750",
+      "bestFigure": "1005",
+      "highestScore": "56",
+      "average": "11.9",
+      "strikeRate": "74.63",
+      "nO": "26",
+      "four": "83",
+      "six": "25"
+    },
+    "odi": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "89",
+      "inning": "26",
+      "runs": "91",
+      "bestFigure": "159",
+      "highestScore": "16",
+      "average": "7.58",
+      "strikeRate": "57.24",
+      "nO": "14",
+      "four": "10",
+      "six": "1"
+    },
+    "t20": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "70",
+      "inning": "8",
+      "runs": "8",
+      "bestFigure": "14",
+      "highestScore": "7",
+      "average": "2.67",
+      "strikeRate": "57.15",
+      "nO": "5",
+      "four": "1",
+      "six": "0"
+    },
+    "ipl": {
+      "50": "0",
+      "100": "0",
+      "200": "0",
+      "match": "145",
+      "inning": "31",
+      "runs": "68",
+      "bestFigure": "79",
+      "highestScore": "16",
+      "average": "9.71",
+      "strikeRate": "86.08",
+      "nO": "24",
+      "four": "5",
+      "six": "1"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "45",
+      "inning": "86",
+      "balls": "8630",
+      "runs": "3977",
+      "wicket": "205",
+      "average": "19.4",
+      "Econ": "2.77",
+      "sR": "42.1",
+      "bbI": "6/27",
+      "bbM": "09/86",
+      "5W": "13",
+      "10W": "0"
+    },
+    "odi": {
+      "match": "89",
+      "inning": "88",
+      "balls": "4580",
+      "runs": "3509",
+      "wicket": "149",
+      "average": "23.55",
+      "Econ": "4.6",
+      "sR": "30.74",
+      "bbI": "6/19",
+      "bbM": "6/19",
+      "5W": "02",
+      "10W": "0"
+    },
+    "t20": {
+      "match": "70",
+      "inning": "69",
+      "balls": "1509",
+      "runs": "1579",
+      "wicket": "89",
+      "average": "17.74",
+      "Econ": "6.28",
+      "sR": "16.96",
+      "bbI": "3/7",
+      "bbM": "3/7",
+      "5W": "0",
+      "10W": "0"
+    },
+    "ipl": {
+      "match": "145",
+      "inning": "145",
+      "balls": "3337",
+      "runs": "4032",
+      "wicket": "183",
+      "average": "22.03",
+      "Econ": "7.25",
+      "sR": "18.23",
+      "bbI": "5/10",
+      "bbM": "5/10",
+      "5W": "02",
+      "10W": "0"
+    }
+    
+  }
+},
+{
+  "name": "Bhuvi",
+  "fullName": "Bhuvneshwar Kumar",
+  "personalInformation": {
+    "bornDate": "February 05 1990 ",
+    "birthPlace": "Meerut, Uttar-Pradesh, India",
+    "height": "-",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm fast-medium"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/bhuvi.jpg"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "-", "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Royal Challengers Bengaluru","Sunrisers Hyderabad","Pune Warriors"
+    ],
+    "nationalTeam": [
+      "India"
+    ],
+    "domesticTeam": [
+      "India A", "Central Zone", "Uttar Pradesh", "India Blue", "Indians"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "3","100": "0","200": "0","match": "21", "inning": "29","runs": "552","bestFigure": "1225","highestScore": "63","average": "22.08","strikeRate": "45.07","nO": "04","four": "77","six": "01"
+    },
+    "odi": {
+      "50": "1","100": "0","200": "0","match": "121", "inning": "55","runs": "552","bestFigure": "747","highestScore": "53","average": "14.15","strikeRate": "73.90","nO": "16","four": "46","six": "08"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "87", "inning": "21","runs": "67","bestFigure": "94","highestScore": "16","average": "8.38","strikeRate": "71.28","nO": "13","four": "0","six": "0"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "190", "inning": "74","runs": "320","bestFigure": "351","highestScore": "27","average": "8.42","strikeRate": "91.17","nO": "36","four": "31","six": "03"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "21", "inning": "37","balls": "3348","runs": "1644","wicket": "63","average": "26.1","Econ": "2.95","sR": "53.14","bbI": "6/82","bbM": "08/96","5W": "04","10W": "0"
+    },
+    "odi": {
+      "match": "121","inning": "120","balls": "5847", "runs": "4951","wicket": "141", "average": "35.11", "Econ": "5.08",
+       "sR": "41.47","bbI": "5/42","bbM": "5/42","5W": "01","10W": "0"
+    },
+    "t20": {
+      "match": "87", "inning": "86", "balls": "1791","runs": "2079","wicket": "90", "average": "23.1","Econ": "6.96", "sR": "19.9","bbI": "5/4","bbM": "5/4","5W": "2","10W": "0"
+    },
+    "ipl": {
+      "match": "190","inning": "190","balls": "4222","runs": "5412", "wicket": "198","average": "27.33","Econ": "7.69","sR": "21.32","bbI": "5/19","bbM": "5/19","5W": "02", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Rabada",
+  "fullName": "Kagiso Rabada",
+  "personalInformation": {
+    "bornDate": "May 25, 1995 ",
+    "birthPlace": "Johannesburg",
+    "height": "-",
+    "roleType": "Bowler",
+    "battingType": "Left Handed Bat",
+    "bowlingType": "Right-arm fast"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/kR.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "2","odi": "17", "t20": "46"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Delhi Capitals","Punjab Kings"," Gujarat Titans"
+    ],
+    "sa20Team":[
+      "Joburg Giants","MI Cape Town","Jozi Stars"
+    ],
+    "hundredLeagueTeam":[
+      "Manchester Originals"
+    ],
+    "mlcTeam":[
+      "MI New York"
+    ],
+    "nationalTeam": [
+      "South Africa"
+    ],
+    "domesticTeam": [
+      "South Africa A", " Lions", "Kent"
+    ],
+    "under19":[
+      "South Africa U19"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "0","100": "0","200": "0","match": "71", "inning": "107","runs": "1031","bestFigure": "2059","highestScore": "47","average": "11.85","strikeRate": "50.08","nO": "20","four": "135","six": "16"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "106", "inning": "45","runs": "401","bestFigure": "507","highestScore": "31","average": "14.85","strikeRate": "79.10","nO": "18","four": "30","six": "12"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "65", "inning": "24","runs": "156","bestFigure": "141","highestScore": "22","average": "17.33","strikeRate": "110.64","nO": "15","four": "14","six": "0"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "84", "inning": "33","runs": "215","bestFigure": "201","highestScore": "44","average": "11.94","strikeRate": "106.97","nO": "15","four": "16","six": "09"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "71", "inning": "130","balls": "13100","runs": "7305","wicket": "336","average": "21.74","Econ": "3.35","sR": "38.99","bbI": "7/112","bbM": "13/144","5W": "17","10W": "4"
+    },
+    "odi": {
+      "match": "106","inning": "104","balls": "5444", "runs": "4613","wicket": "168", "average": "27.46", "Econ": "5.08",
+       "sR": "32.4","bbI": "6/16","bbM": "6/16","5W": "02","10W": "0"
+    },
+    "t20": {
+      "match": "65", "inning": "65", "balls": "1393","runs": "1928","wicket": "71", "average": "27.15","Econ": "8.3", "sR": "19.62","bbI": "3/18","bbM": "3/18","5W": "0","10W": "0"
+    },
+    "ipl": {
+      "match": "84","inning": "84","balls": "1902","runs": "2732", "wicket": "119","average": "22.96","Econ": "8.62","sR": "15.98","bbI": "4/21","bbM": "4/21","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Cummins",
+  "fullName": "Pat Cummins",
+  "personalInformation": {
+    "bornDate": "May 08, 1993 ",
+    "birthPlace": "Westmead, Sydney",
+    "height": "1.92 m",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm fast"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/pC.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "-", "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      "Delhi Capitals"," Kolkata Knight Riders","Mumbai Indians"," Sunrisers Hyderabad"
+    ],
+    "bblTeam":[
+      "Sydney Sixers","Perth Scorchers","Sydney Thunder"
+    ],
+    "mlcTeam":[
+      "San Francisco Unicorns"
+    ],
+    "nationalTeam": [
+      "Australia"
+    ],
+    "domesticTeam": [
+      "Australia A", "New South Wales", "Cummins XI"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "3","100": "0","200": "0","match": "69", "inning": "101","runs": "1498","bestFigure": "3198","highestScore": "64","average": "17.02","strikeRate": "46.85","nO": "13","four": "148","six": "32"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "90", "inning": "59","runs": "537","bestFigure": "703","highestScore": "37","average": "14.51","strikeRate": "76.39","nO": "22","four": "43","six": "12"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "57", "inning": "27","runs": "158","bestFigure": "133","highestScore": "28","average": "10.53","strikeRate": "118.80","nO": "12","four": "11","six": "7"
+    },
+    "ipl": {
+      "50": "3","100": "0","200": "0","match": "72", "inning": "50","runs": "612","bestFigure": "402","highestScore": "66","average": "20.4","strikeRate": "152.24","nO": "20","four": "39","six": "41"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "69", "inning": "129","balls": "13977","runs": "6733","wicket": "304","average": "22.15","Econ": "2.89","sR": "45.98","bbI": "6/23","bbM": "10/62","5W": "14","10W": "2"
+    },
+    "odi": {
+      "match": "90","inning": "90","balls": "4683", "runs": "4116","wicket": "143", "average": "28.78", "Econ": "5.27",
+       "sR": "32.75","bbI": "5/70","bbM": "5/70","5W": "01","10W": "0"
+    },
+    "t20": {
+      "match": "57", "inning": "57", "balls": "1254","runs": "1556","wicket": "66", "average": "23.58","Econ": "7.44", "sR": "19.00","bbI": "3/15","bbM": "3/15","5W": "0","10W": "0"
+    },
+    "ipl": {
+      "match": "72","inning": "72","balls": "1617","runs": "2373", "wicket": "79","average": "30.04","Econ": "8.81","sR": "20.47","bbI": "4/34","bbM": "4/34","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Seales",
+  "fullName": "Jayden Seales",
+  "personalInformation": {
+    "bornDate": "September 10, 2001",
+    "birthPlace": "Trinidad & Tobago",
+    "height": "1.92 m",
+    "roleType": "Bowler",
+    "battingType": "Left Handed Bat",
+    "bowlingType": "Bowler"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/jS.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "-", "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "ccTeam": [
+      "Sussex"
+    ],
+    "lplTeam":[
+      "Jaffna Kings"
+    ],
+    "cplTeam":[
+      "Barbuda Falcons","Trinbago Knight Riders"
+    ],
+    "nationalTeam": [
+      "West Indies"
+    ],
+    "domesticTeam": [
+      "West Indies A", "New South Wales", "Cummins XI"
+    ],
+    "under19":[
+      "West Indies U19"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "0","100": "0","200": "0","match": "19", "inning": "32","runs": "126","bestFigure": "320","highestScore": "22","average": "7","strikeRate": "39.38","nO": "14","four": "10","six": "6"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "22", "inning": "8","runs": "51","bestFigure": "61","highestScore": "29","average": "12.75","strikeRate": "83.61","nO": "4","four": "3","six": "3"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "1", "inning": "1","runs": "4","bestFigure": "2","highestScore": "4","average": "0","strikeRate": "200.00","nO": "1","four": "1","six": "0"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "0", "inning": "0","runs": "0","bestFigure": "0","highestScore": "0","average": "0","strikeRate": "0","nO": "0","four": "0","six": "0"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "19", "inning": "36","balls": "3140","runs": "1800","wicket": "81","average": "22.22","Econ": "3.44","sR": "38.77","bbI": "6/61","bbM": "9/106","5W": "3","10W": "0"
+    },
+    "odi": {
+      "match": "22","inning": "21","balls": "902", "runs": "928","wicket": "21", "average": "44.19", "Econ": "6.17",
+       "sR": "42.95","bbI": "4/22","bbM": "4/22","5W": "0","10W": "0"
+    },
+    "t20": {
+      "match": "1", "inning": "1", "balls": "12","runs": "18","wicket": "0", "average": "0.0","Econ": "9", "sR": "0.0","bbI": "0/18","bbM": "0/18","5W": "0","10W": "0"
+    },
+    "ipl": {
+      "match": "-","inning": "-","balls": "-","runs": "-", "wicket": "-","average": "-","Econ": "-","sR": "-","bbI": "-","bbM": "-","5W": "-", "10W": "-"
+    }
+    
+  }
+},
+
+{
+  "name": "Henry",
+  "fullName": "Matt Henry",
+  "personalInformation": {
+    "bornDate": "December 14, 1991",
+    "birthPlace": "Christchurch, Canterbury",
+    "height": "--",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm fast-medium"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/mH.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "6","odi": "7", "t20": "42"
+    }
+  },
+  "careerInformation": {
+    "ccTeam": [
+      "Worcestershire","Derbyshire","Kent","Edinburgh Rocks","Somerset"
+    ],
+    "100ballTeam":[
+      "Welsh Fire"
+    ],
+    "lplTeam":[
+      "Jaffna Kings"
+    ],
+    "iplTeam":[
+      " Chennai Super Kings","Punjab Kings"
+    ],
+    "nationalTeam": [
+      "New Zealand"
+    ],
+    "domesticTeam": [
+      "New Zealand A", "New Zealand XI", "Team Latham"
+    ],
+    "mlcTeam":[
+      "San Francisco Unicorns"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "4","100": "0","200": "0","match": "30", "inning": "42","runs": "649","bestFigure": "834","highestScore": "72","average": "18.03","strikeRate": "77.82","nO": "6","four": "87","six": "20"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "91", "inning": "38","runs": "270","bestFigure": "290","highestScore": "48","average": "10.38","strikeRate": "93.11","nO": "12","four": "22","six": "11"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "21", "inning": "7","runs": "24","bestFigure": "27","highestScore": "12","average": "6","strikeRate": "88.89","nO": "3","four": "2","six": "1"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "6", "inning": "0","runs": "0","bestFigure": "0","highestScore": "0","average": "0","strikeRate": "0","nO": "0","four": "0","six": "0"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "30", "inning": "59","balls": "6750","runs": "3581","wicket": "120","average": "29.84","Econ": "3.18","sR": "56.25","bbI": "7/23","bbM": "9/55","5W": "4","10W": "0"
+    },
+    "odi": {
+      "match": "91","inning": "89","balls": "4734", "runs": "4094","wicket": "165", "average": "24.81", "Econ": "5.19",
+       "sR": "28.69","bbI": "5/30","bbM": "5/30","5W": "3","10W": "0"
+    },
+    "t20": {
+      "match": "21", "inning": "20", "balls": "462","runs": "639","wicket": "27", "average": "23.67","Econ": "8.3", "sR": "17.11","bbI": "3/32","bbM": "3/32","5W": "0","10W": "0"
+    },
+    "ipl": {
+      "match": "6","inning": "6","balls": "102","runs": "181", "wicket": "2","average": "90.5","Econ": "10.65","sR": "51.0","bbI": "1/28","bbM": "1/28","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Kuldeep ",
+  "fullName": "Kuldeep Yadav",
+  "personalInformation": {
+    "bornDate": "December 14, 1994 ",
+    "birthPlace": "Kanpur, Uttar Pradesh, India",
+    "height": "-",
+    "roleType": "Bowler",
+    "battingType": "Left Handed Bat",
+    "bowlingType": "Left-arm wrist-spin"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/kY.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "23","odi": "2", "t20": "27"
+    }
+  },
+  "careerInformation": {
+    "iplTeam": [
+      " Kolkata Knight Riders","Delhi Capitals"
+    ],
+    "nationalTeam": [
+      "India"
+    ],
+    "domesticTeam": [
+      "India A", "Central Zone", "Uttar Pradesh", "India Red", "Rest of India","India AT20","Indian Board Presidents XI"," Asia XI"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "0","100": "0","200": "0","match": "13", "inning": "17","runs": "199","bestFigure": "698","highestScore": "40","average": "13.27","strikeRate": "28.52","nO": "2","four": "18","six": "01"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "113", "inning": "42","runs": "207","bestFigure": "407","highestScore": "19","average": "9.86","strikeRate": "50.86","nO": "21","four": "14","six": "0"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "40", "inning": "7","runs": "46","bestFigure": "59","highestScore": "23","average": "11.5","strikeRate": "77.97","nO": "3","four": "2","six": "0"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "98", "inning": "38","runs": "201","bestFigure": "232","highestScore": "35","average": "13.4","strikeRate": "86.64","nO": "23","four": "18","six": "3"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "13", "inning": "24","balls": "2093","runs": "1241","wicket": "56","average": "22.16","Econ": "3.56","sR": "37.38","bbI": "5/40","bbM": "08/113","5W": "04","10W": "0"
+    },
+    "odi": {
+      "match": "113","inning": "110","balls": "5754", "runs": "4786","wicket": "181", "average": "26.44", "Econ": "4.99",
+       "sR": "31.79","bbI": "6/25","bbM": "6/25","5W": "02","10W": "0"
+    },
+    "t20": {
+      "match": "40", "inning": "39", "balls": "860","runs": "971","wicket": "69", "average": "14.07","Econ": "6.77", "sR": "12.46","bbI": "5/17","bbM": "5/17","5W": "2","10W": "0"
+    },
+    "ipl": {
+      "match": "98","inning": "95","balls": "2052","runs": "2749", "wicket": "102","average": "26.95","Econ": "8.04","sR": "20.12","bbI": "4/14","bbM": "4/14","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Theekshana",
+  "fullName": "Maheesh Theekshana",
+  "personalInformation": {
+    "bornDate": "August 01, 2000",
+    "birthPlace": "Colombo",
+    "height": "--",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm offbreak"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/mT.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "1", "t20": "-"
+    }
+  },
+  "careerInformation": {
+    "cplTeam": [
+      "Trinbago Knight Riders","Barbados Royals"
+    ],
+    "sa20Team":[
+      "Joburg Super Kings"
+    ],
+    "lplTeam":[
+      "Jaffna Kings","Jaffna Stallions","Galle Marvels"
+    ],
+    "iplTeam":[
+      " Chennai Super Kings","Rajasthan Royals"
+    ],
+    "nationalTeam": [
+      "Sri Lanka"
+    ],
+    "domesticTeam": [
+      "-"
+    ],
+    "ilt20Team":[
+      "Sharjah Warriorz"
+    ],
+    "t10Team":[
+      "Northern Warriors","Chennai Brave Jaguars","Morrisville Samp Army","Cape Town Samp Army","Deccan Gladiators"
+    ],
+    "bblTeam":[
+      "Rangpur Riders"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "0","100": "0","200": "0","match": "2", "inning": "3","runs": "59","bestFigure": "149","highestScore": "38","average": "19.67","strikeRate": "39.60","nO": "0","four": "6","six": "1"
+    },
+    "odi": {
+      "50": "0","100": "0","200": "0","match": "53", "inning": "30","runs": "315","bestFigure": "580","highestScore": "38","average": "16.58","strikeRate": "54.32","nO": "11","four": "22","six": "3"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "60", "inning": "26","runs": "66","bestFigure": "103","highestScore": "14","average": "3.88","strikeRate": "64.08","nO": "9","four": "4","six": "2"
+    },
+    "ipl": {
+      "50": "0","100": "0","200": "0","match": "38", "inning": "6","runs": "17","bestFigure": "34","highestScore": "7","average": "5.67","strikeRate": "50.00","nO": "3","four": "0","six": "1"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "2", "inning": "4","balls": "365","runs": "188","wicket": "5","average": "37.6","Econ": "3.09","sR": "73.0","bbI": "2/28","bbM": "3/76","5W": "0","10W": "0"
+    },
+    "odi": {
+      "match": "53","inning": "52","balls": "2573", "runs": "1971","wicket": "77", "average": "25.61", "Econ": "4.6",
+       "sR": "33.42","bbI": "4/25","bbM": "4/25","5W": "0","10W": "0"
+    },
+    "t20": {
+      "match": "60", "inning": "60", "balls": "1344","runs": "1541","wicket": "58", "average": "26.57","Econ": "6.88", "sR": "23.17","bbI": "3/17","bbM": "3/17","5W": "0","10W": "0"
+    },
+    "ipl": {
+      "match": "38","inning": "38","balls": "876","runs": "1207", "wicket": "36","average": "33.53","Econ": "8.27","sR": "24.33","bbI": "4/33","bbM": "4/33","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Rashid",
+  "fullName": "Rashid Khan",
+  "personalInformation": {
+    "bornDate": "September 20, 1998",
+    "birthPlace": "Nangarhar",
+    "height": "--",
+    "roleType": "Bowler",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm legbreak"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/rK.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "5", "t20": "9"
+    }
+  },
+  "careerInformation": {
+    "cplTeam": [
+      "Guyana Amazon Warriors","Barbados Royals","St Kitts and Nevis Patriots"
+    ],
+    "bigblTeam":[
+      "Adelaide Strikers"
+    ],
+    "100ballTeam":[
+      "Trent Rockets"
+    ],
+    "max60Cab":[
+      "New York Strikers"
+    ],
+    "sa20Team":[
+      "Durban Heat","MI Cape Town"
+    ],
+    "et20Team":[
+      "Rotterdam Rhinos"
+    ],
+    "iplTeam":[
+      "Sunrisers Hyderabad","Gujarat Titans"
+    ],
+    "nationalTeam": [
+      "Afghanistan"
+    ],
+    "domesticTeam": [
+      "-"
+    ],
+    "u19Team":[
+      "Afghanistan U19"
+    ],
+    "ilt20Team":[
+      "MI Emirates"
+    ],
+    "mlcTeam":[
+      "MI New York"
+    ],
+    "t10Team":[
+      "Maratha Arabians"
+    ],
+    "aplTeam":[
+      "Kabul Zwanan"
+    ],
+    "bblTeam":[
+      "Comilla Victorians",""
+    ],
+    "pplTeam":[
+      "Quetta Gladiators","Lahore Qalandars"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "1","100": "0","200": "0","match": "6", "inning": "9","runs": "154","bestFigure": "180","highestScore": "51","average": "17.11","strikeRate": "85.56","nO": "0","four": "18","six": "4"
+    },
+    "odi": {
+      "50": "5","100": "0","200": "0","match": "114", "inning": "87","runs": "1384","bestFigure": "1320","highestScore": "60","average": "19.49","strikeRate": "104.85","nO": "16","four": "120","six": "49"
+    },
+    "t20": {
+      "50": "0","100": "0","200": "0","match": "96", "inning": "59","runs": "467","bestFigure": "370","highestScore": "48","average": "13.74","strikeRate": "126.22","nO": "25","four": "31","six": "28"
+    },
+    "ipl": {
+      "50": "1","100": "0","200": "0","match": "136", "inning": "68","runs": "585","bestFigure": "365","highestScore": "79","average": "13.93","strikeRate": "160.28","nO": "26","four": "41","six": "41"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "6", "inning": "11","balls": "1864","runs": "920","wicket": "45","average": "20.44","Econ": "2.96","sR": "41.42","bbI": "7/66","bbM": "11/104","5W": "5","10W": "3"
+    },
+    "odi": {
+      "match": "114","inning": "106","balls": "5741", "runs": "4060","wicket": "199", "average": "20.4", "Econ": "4.24",
+       "sR": "28.85","bbI": "7/18","bbM": "7/18","5W": "5","10W": "0"
+    },
+    "t20": {
+      "match": "96", "inning": "96", "balls": "2192","runs": "2222","wicket": "161", "average": "13.8","Econ": "6.08", "sR": "13.61","bbI": "5/3","bbM": "5/3","5W": "2","10W": "0"
+    },
+    "ipl": {
+      "match": "136","inning": "136","balls": "3189","runs": "3766", "wicket": "158","average": "23.84","Econ": "7.09","sR": "20.18","bbI": "4/24","bbM": "4/24","5W": "0", "10W": "0"
+    }
+    
+  }
+},
+
+{
+  "name": "Kholi",
+  "fullName": "Virat Kholi",
+  "personalInformation": {
+    "bornDate": "September 20, 1998",
+    "birthPlace": "Nangarhar",
+    "height": "--",
+    "roleType": "Bastman",
+    "battingType": "Right Handed Bat",
+    "bowlingType": "Right-arm legbreak"
+  },
+  "playerImages": {
+    "images": "/JavaScript/playerObject/images/rK.png"
+  },
+  "iccRanking": {
+    "batting": {
+      "test": "-","odi": "-","t20": "-"
+    },
+    "bowling": {
+      "test": "-","odi": "5", "t20": "9"
+    }
+  },
+  "careerInformation": {
+    "cplTeam": [
+      "Guyana Amazon Warriors","Barbados Royals","St Kitts and Nevis Patriots"
+    ],
+    "bigblTeam":[
+      "Adelaide Strikers"
+    ],
+    "100ballTeam":[
+      "Trent Rockets"
+    ],
+    "max60Cab":[
+      "New York Strikers"
+    ],
+    "sa20Team":[
+      "Durban Heat","MI Cape Town"
+    ],
+    "et20Team":[
+      "Rotterdam Rhinos"
+    ],
+    "iplTeam":[
+      "Sunrisers Hyderabad","Gujarat Titans"
+    ],
+    "nationalTeam": [
+      "Afghanistan"
+    ],
+    "domesticTeam": [
+      "-"
+    ],
+    "u19Team":[
+      "Afghanistan U19"
+    ],
+    "ilt20Team":[
+      "MI Emirates"
+    ],
+    "mlcTeam":[
+      "MI New York"
+    ],
+    "t10Team":[
+      "Maratha Arabians"
+    ],
+    "aplTeam":[
+      "Kabul Zwanan"
+    ],
+    "bblTeam":[
+      "Comilla Victorians",""
+    ],
+    "pplTeam":[
+      "Quetta Gladiators","Lahore Qalandars"
+    ]
+  },
+  "battingCareerSummary": {
+    "test": {
+      "50": "31","100": "30","200": "7","match": "123", "inning": "210","runs": "9230","ballFaced": "16608","highestScore": "254","average": "46.85","strikeRate": "55.58","nO": "13","four": "1027","six": "30"
+    },
+    "odi": {
+      "50": "74","100": "51","200": "0","match": "302", "inning": "290","runs": "14181","bestFigure": "15192","highestScore": "183","average": "57.88","strikeRate": "93.35","nO": "45","four": "1325","six": "153"
+    },
+    "t20": {
+      "50": "38","100": "1","200": "0","match": "125", "inning": "117","runs": "4188","bestFigure": "3056","highestScore": "122","average": "48.7","strikeRate": "137.05","nO": "31","four": "369","six": "124"
+    },
+    "ipl": {
+      "50": "63","100": "8","200": "0","match": "267", "inning": "259","runs": "8661","bestFigure": "6519","highestScore": "113","average": "39.55","strikeRate": "132.86","nO": "40","four": "771","six": "291"
+    }
+  },
+  "bowlingCareerSummary": {
+    "test": {
+      "match": "6", "inning": "11","balls": "1864","runs": "920","wicket": "45","average": "20.44","Econ": "2.96","sR": "41.42","bbI": "7/66","bbM": "11/104","5W": "5","10W": "3"
+    },
+    "odi": {
+      "match": "114","inning": "106","balls": "5741", "runs": "4060","wicket": "199", "average": "20.4", "Econ": "4.24",
+       "sR": "28.85","bbI": "7/18","bbM": "7/18","5W": "5","10W": "0"
+    },
+    "t20": {
+      "match": "96", "inning": "96", "balls": "2192","runs": "2222","wicket": "161", "average": "13.8","Econ": "6.08", "sR": "13.61","bbI": "5/3","bbM": "5/3","5W": "2","10W": "0"
+    },
+    "ipl": {
+      "match": "136","inning": "136","balls": "3189","runs": "3766", "wicket": "158","average": "23.84","Econ": "7.09","sR": "20.18","bbI": "4/24","bbM": "4/24","5W": "0", "10W": "0"
+    }
+    
+  }
+}
+]
